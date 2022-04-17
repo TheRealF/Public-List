@@ -1,4 +1,6 @@
 # Public-List
+Talvolta penso che il paradiso sia leggere continuamente, senza fine
+
 ### La mia lista dei desideri:
 1. Michel Foucault, Sorvegliare e punire. Nascita della prigione, Einaudi
 2. Aut aut. Prendersi cura delle parole (Vol. 388)
