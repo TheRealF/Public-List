@@ -17,5 +17,6 @@ Talvolta penso che il paradiso sia leggere continuamente, senza fine
 13. Aut aut. «È inumano essere soltanto un uomo» (Vol. 391)
 14. Andrea Moro, I confini di Babele. Il cervello e il mistero delle lingue impossibili, Il Mulino
 15. Giovanni Di Pasquale, Le macchine nel mondo antico. Dalle civiltà mesopotamiche a Roma imperiale, Carocci editore
+16. Sergei Medvedev, The Return of the Russian Leviathan, Polity
 
 I libri non sono in ordine "prioritario"
