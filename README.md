@@ -18,5 +18,6 @@ Talvolta penso che il paradiso sia leggere continuamente, senza fine
 14. Andrea Moro, I confini di Babele. Il cervello e il mistero delle lingue impossibili, Il Mulino
 15. Giovanni Di Pasquale, Le macchine nel mondo antico. Dalle civiltà mesopotamiche a Roma imperiale, Carocci editore
 16. Sergei Medvedev, The Return of the Russian Leviathan, Polity
+17. Achille Occhetto, Perché non basta dirsi democratici. Ecosocialismo e giustizia sociale, Guerini e Associati
 
 I libri non sono in ordine "prioritario"
