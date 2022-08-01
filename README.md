@@ -3,7 +3,7 @@ Talvolta penso che il paradiso sia leggere continuamente, senza fine
 
 ### La mia lista dei desideri:
 1. Michel Foucault, Sorvegliare e punire. Nascita della prigione, Einaudi
-2. Aut aut. Prendersi cura delle parole (Vol. 388)
+2. Erich Gamma, Design Patterns: Elements of Reusable Object-Oriented Software, Addison-Wesley Professional
 3. Il Corano, UTET formato Turtleback
 4. Noam Chomsky, Linguaggio e problemi della conoscenza, Il Mulino
 5. Noam Chomsky, La grammatica trasformazionale. Saggi espositivi, Bollati Boringhieri
