@@ -23,5 +23,11 @@ Talvolta penso che il paradiso sia leggere continuamente, senza fine
 19. Douglas Hoftstadter, L'Io della mente, Adelphi
 20. Oliver Sacks, L'uomo che scambiò sua moglie per un cappello, Adelphi
 21. Edwin Abbot, Flatlandia, Adelphi
+22. Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture, Addison-Wesley Publishing 
+23. Design Patterns: Elements of Reusable Object-Oriented Software, Addison-Wesley Professional
 
 I libri non sono in ordine "prioritario"
+
+
+
+Ebook: https://www.amazon.it/Sistemi-operativi-Coedizione-Zanichelli-ingegneria-ebook/dp/B01LXPYDPD?asin=B01LXPYDPD&revisionId=&format=4&depth=1
